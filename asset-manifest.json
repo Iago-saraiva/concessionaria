@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/concessionaria/static/css/main.5124130b.css",
-    "main.js": "/concessionaria/static/js/main.34784897.js",
+    "main.css": "/concessionaria/static/css/main.f38c0bd0.css",
+    "main.js": "/concessionaria/static/js/main.5e5baabf.js",
     "static/js/488.6b4e6a4a.chunk.js": "/concessionaria/static/js/488.6b4e6a4a.chunk.js",
     "static/media/carro3.jpg": "/concessionaria/static/media/carro3.e19bd438f9d36e015728.jpg",
     "index.html": "/concessionaria/index.html",
-    "main.5124130b.css.map": "/concessionaria/static/css/main.5124130b.css.map",
-    "main.34784897.js.map": "/concessionaria/static/js/main.34784897.js.map",
+    "main.f38c0bd0.css.map": "/concessionaria/static/css/main.f38c0bd0.css.map",
+    "main.5e5baabf.js.map": "/concessionaria/static/js/main.5e5baabf.js.map",
     "488.6b4e6a4a.chunk.js.map": "/concessionaria/static/js/488.6b4e6a4a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5124130b.css",
-    "static/js/main.34784897.js"
+    "static/css/main.f38c0bd0.css",
+    "static/js/main.5e5baabf.js"
   ]
 }
